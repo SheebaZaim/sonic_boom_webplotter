@@ -8,10 +8,10 @@ Output Prefix  : fig10
 
 Metrics
 -------
-RMSE               : 1.2568
-Peak Error (%)     : 39.61 %
-Reference Peak     : 1.2849
-Calculated Peak    : 1.7938
+RMSE               : 1.0187
+Peak Error (%)     : 61.51 %
+Reference Peak     : 1.2844
+Calculated Peak    : 2.0743
 
 Interpretation
 --------------

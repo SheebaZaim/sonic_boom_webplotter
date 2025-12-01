@@ -347,7 +347,7 @@ If you encounter issues:
 
 ```bash
 # 1. Digitize figures
-python interactive_digitize.py --folder figures --output_dir outputs --samples 5000
+python interactive_digitize.py --folder figures --output_dir outputs --samples 50
 
 # 2a. Basic propagation test
 python test_runner.py --input outputs/fig4_4.csv --reference outputs/fig4_5.csv --distance 15760 --out jaxa_case

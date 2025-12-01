@@ -8,10 +8,10 @@ Output Prefix  : jaxa_case
 
 Metrics
 -------
-RMSE               : 15.2557
-Peak Error (%)     : -90.70 %
-Reference Peak     : 20.6910
-Calculated Peak    : 1.9237
+RMSE               : 1.8118
+Peak Error (%)     : -23.76 %
+Reference Peak     : 2.5685
+Calculated Peak    : 1.9582
 
 Interpretation
 --------------
