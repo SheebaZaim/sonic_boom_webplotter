@@ -1,0 +1,26 @@
+
+SUMMARY REPORT
+=====================
+Input File     : outputs/fig4_4.csv
+Reference File : outputs/fig4_5.csv
+Distance       : 15760.0
+Output Prefix  : jaxa_case
+
+Metrics
+-------
+RMSE               : 15.2557
+Peak Error (%)     : -90.70 %
+Reference Peak     : 20.6910
+Calculated Peak    : 1.9237
+
+Interpretation
+--------------
+• RMSE → Measures overall deviation (Lower = Better).
+• Peak Error (%) → Difference at highest pressure point.
+• Reference vs Calculated Peak → Accuracy of digitized waveform.
+
+Comments
+--------
+✔ Auto-matching of output to target figure
+✔ Comparison plot saved
+✔ Summary generated automatically

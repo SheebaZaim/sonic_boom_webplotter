@@ -1,0 +1,26 @@
+
+SUMMARY REPORT
+=====================
+Input File     : outputs/fig8b.csv
+Reference File : outputs/fig10.csv
+Distance       : 1000.0
+Output Prefix  : fig10
+
+Metrics
+-------
+RMSE               : 1.2568
+Peak Error (%)     : 39.61 %
+Reference Peak     : 1.2849
+Calculated Peak    : 1.7938
+
+Interpretation
+--------------
+• RMSE → Measures overall deviation (Lower = Better).
+• Peak Error (%) → Difference at highest pressure point.
+• Reference vs Calculated Peak → Accuracy of digitized waveform.
+
+Comments
+--------
+✔ Auto-matching of output to target figure
+✔ Comparison plot saved
+✔ Summary generated automatically
